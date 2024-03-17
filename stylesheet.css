@@ -1,0 +1,157 @@
+header{
+    background-color: #b264a9;
+    width: 800px;
+    height: 150px;
+    }
+    footer{
+    background-color: #aa597b;
+    width: 800px;
+    height: 150px;
+    }
+
+    table {
+        width: 800px;
+        background-color: grey;
+        }
+    
+        tr {
+            background-color: lightblue;
+            }
+    
+            td {
+                width: 200px;
+                height: 150px;
+                }
+                
+                
+        img {
+                width: 150px; 
+                }
+                
+
+    #kolom1rij1{
+    background-color: #aa597b;
+    }
+    #deelnemer{
+        background-color: rgb(158, 67, 67);
+    }
+    
+
+    #kolom2rij1{
+        background-color: #672f46; 
+    }
+
+   #kolom2rij1 img {
+        width: 200px;
+        height: 100px;
+    } 
+
+    #kolom3rij1{
+        background-color: #611a38;    
+    }
+    #klasse{
+        background-color: rgb(112, 38, 38);
+    }
+
+    #kolom4rij1{
+        background-color: #834e64;    
+    }
+
+    #kolom4rij1 img {
+        width: 200px;
+        height: 100px;
+    }
+
+    #kolom1rij2{
+        background-color: #d0c8cb;
+        }
+        #ella{
+            background-color:red
+        }
+    
+        #kolom2rij2{
+            background-color: #9a848d;    
+        }
+        #kolom2rij2 img {
+            width: 200px;
+            height: 100px;
+        }
+    
+        #kolom3rij2{
+            background-color: #dd97b4;    
+        }
+        #bixie{
+            background-color: rgb(180, 109, 109);
+        }
+    
+        #kolom4rij2{
+            background-color: #f1acc9;    
+        }
+        #kolom4rij2 img {
+            width: 200px;
+            height: 100px;
+        }
+
+        #kolom1rij3{
+            background-color: #aea8aa;
+            }
+            #bartje{
+                background-color: rgb(193, 49, 49);
+            }
+        
+            #kolom2rij3{
+                background-color: #e75e97;    
+            }
+            #kolom2rij3 img {
+                width: 200px;
+                height: 100px;
+            }
+        
+            #kolom3rij3{
+                background-color: #611a38;    
+            }
+            #b {
+                background-color: rgb(247, 28, 28);
+            }
+        
+            #kolom4rij3{
+                background-color: #ed96ba;    
+            }
+            #kolom4rij3 img {
+                width: 200px;
+                height: 100px;
+            }
+
+            #kolom1rij4{
+                background-color: #5d0522;
+                }
+                #dressuur {
+                    background-color: rgb(190, 92, 92);
+                }
+            
+                #kolom2rij4{
+                    background-color: #501f33;    
+                }
+                #kolom2rij4 img {
+                    width: 200px;
+                    height: 100px;
+                }
+            
+                #kolom3rij4{
+                    background-color: #79636c;    
+                }
+                #l1{
+                    background-color: rgb(71, 26, 26);
+                }
+            
+                #kolom4rij4{
+                    background-color: #ee0b6a;    
+                }
+
+                #kolom4rij4 img {
+                    width: 200px;
+                    height: 100px;
+                }
+    
+
+   
